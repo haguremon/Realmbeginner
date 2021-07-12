@@ -3,7 +3,7 @@
 //  Realmbeginner
 //
 //  Created by IwasakIYuta on 2021/07/12.
-//
+//明日はりなむやるぞぉい
 
 import UIKit
 
